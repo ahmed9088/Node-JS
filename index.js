@@ -1,6 +1,6 @@
-const exp=require('express') //import
-const app=exp()
-const bodyParser = require('body-parser')
+const express = require('express'); // Import express
+const app = express();
+const bodyParser = require('body-parser');
 
 const port =8000
 
